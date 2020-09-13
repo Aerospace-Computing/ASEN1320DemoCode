@@ -5,6 +5,25 @@ using namespace std;
 
 int main()
 {
+    
+    /*
+    
+    Valid Cases
+        case 1
+        case 1 + 2
+        case 'a'
+        case 'a' < 'b'
+    
+    Invalid Cases
+        case "string"  // string constants are not allowed
+        case 1.2       // floating point constants are not allowed
+        case a         // variables are not allowed
+        case a + b     // variables are not allowed
+        case 1,2,3     // each case must contain only one constant
+
+    
+    */
+    
     int choice = 2;
 
     
