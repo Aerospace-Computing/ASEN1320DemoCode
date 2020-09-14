@@ -2,11 +2,11 @@
 
 using namespace std;
 
-int sum = 0;
-int n = 1;
-
 int main() 
 {
+  int sum = 0;
+  int n = 1;
+  
     do 
     {
       sum += n;  // sum = sum + n
@@ -14,5 +14,5 @@ int main()
       cout << sum << endl;
     } while (n <= 10);
     
-return 0;
+  return 0;
 }
