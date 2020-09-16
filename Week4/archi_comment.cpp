@@ -1,4 +1,4 @@
-// archi.cpp
+// archi_comment.cpp
 #include<iostream>
 #include<cmath>
 #include<string>
