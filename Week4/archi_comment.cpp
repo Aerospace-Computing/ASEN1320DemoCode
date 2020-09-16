@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	// Declare and initialize variables 
-    string goAgain;
+        string goAgain;
 
 
 	do{
@@ -15,7 +15,7 @@ int main()
 	
 	
 
-        // Calculate the volume
+                // Calculate the volume
 		
 		
 		
