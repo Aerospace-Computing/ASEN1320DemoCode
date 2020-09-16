@@ -31,7 +31,7 @@ int main()
 	
 	
 
-	}while(goAgain != "no"); //Check the condtion is met
+	}while(goAgain != "no"); //Check the condition is met
 
 	return 0;
 	
